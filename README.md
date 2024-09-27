@@ -1,4 +1,4 @@
-In this project, I examined informative details on a fictitious superstore called MegaMart Hub. They comprise of operational data using various features, however, the focus was on observing whether certain Sub-categories influence profits at MegaMart Hub.
+In this project, I examined informative details on a fictitious superstore called MegaMart Hub. They are composed of operational data using various features, however, the focus was on observing whether certain Sub-categories influence profits at MegaMart Hub.
 
 I have used Python to develop some descriptive statistics and visualizations in order to gather insightful information about the data and, thus, answer objective and some hypotheses related to profit.
 Furthermore, I preprocessed and cleaned the data, managed outliers, applied Label encoding to the categorical features, separated the data into Training and Test sets and, finally, did Normalization and Standardization techniques for training a Machine Learning Model in the future.
